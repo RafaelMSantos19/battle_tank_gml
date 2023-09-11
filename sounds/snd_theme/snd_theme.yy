@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "explosion",
+  "name": "snd_theme",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 3.040635,
+  "duration": 283.74384,
   "parent": {
     "name": "Sons",
     "path": "folders/Sons.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "explosion.ogg",
+  "soundFile": "snd_theme.ogg",
   "type": 0,
   "volume": 1.0,
 }

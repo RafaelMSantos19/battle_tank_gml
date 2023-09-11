@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "shot",
+  "name": "snd_shot",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "shot.ogg",
+  "soundFile": "snd_shot.ogg",
   "type": 0,
   "volume": 1.0,
 }
