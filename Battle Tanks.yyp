@@ -37,6 +37,7 @@
     {"id":{"name":"spr_exploid","path":"sprites/spr_exploid/spr_exploid.yy",},},
     {"id":{"name":"obj_tank","path":"objects/obj_tank/obj_tank.yy",},},
     {"id":{"name":"obj_exploid","path":"objects/obj_exploid/obj_exploid.yy",},},
+    {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"snd_shot","path":"sounds/snd_shot/snd_shot.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
